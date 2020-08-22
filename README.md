@@ -3,11 +3,15 @@
 Simple bot that when you're raided, it will tell the chat to refresh thier
 browsers like this:
 
-TriodeBot: Welcome @seantyasmusic raiders!! Could you help out?
+TriodeOfficial: Welcome @seantyasmusic raiders!! Could you help out?
 Click this link to help your view count toward partner?
 https://twitch.tv/triodeofficial
 
 It will repeat that message every 3 minutes and then stop after 15 minutes.
+
+I'm on Twitch: https://twitch.tv/triodeofficial
+
+Discord: https://discord.gg/b8JHETz
 
 ## Instructions:
 
